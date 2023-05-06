@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Karki</h1>
 <h3 align="center">A Computer-Science Enthusiast from Nepal.</h3>
-<h6 align="center">#Afnai_Taal_Maa</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish079&label=Profile%20views&color=0e75b6&style=flat" alt="aashish079" /> </p>
 
