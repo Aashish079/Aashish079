@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish079&label=Profile%20views&color=0e75b6&style=flat" alt="aashish079" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack and React-Native**
-
 - 📫 How to reach me **developeraashish079@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
